@@ -6,7 +6,7 @@ This repository contains the code and dataset for a fake news detection model. T
 
 - `Dataset`: This folder contains the training dataset used to train the model. It includes labeled news articles for both real and fake news.
 
-- 'model_training.py': This is the trained model which is being trained using LSTM.
+- `model_training.py`: This is the trained model which is being trained using LSTM.
 
 - `Fake_news`: This folder contains the necessary files for implementing the fake news detection model.
 
