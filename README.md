@@ -28,6 +28,11 @@ This repository contains the code and dataset for a fake news detection model. T
 
 5. Submit the form, and the application will provide a prediction of whether the news article is real or fake.
 
+## Video Demo
+
+Watch the demo of the Fake News Detection model in action:
+
+[![Fake News Detection Demo](https://www.youtube.com/watch?v=R7UVl4vR7k0&ab_channel=Echo367)
 ## Note
 
 The code in the repository is provided as a demonstration of the fake news detection model. 
