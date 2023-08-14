@@ -32,7 +32,7 @@ This repository contains the code and dataset for a fake news detection model. T
 
 Watch the demo of the Fake News Detection model in action:
 
-[![Fake News Detection Demo](https://img.youtube.com/vi/R7UVl4vR7k0/0.jpg)](https://www.youtube.com/watch?v=R7UVl4vR7k0)
+[Fake News Detection Demo](https://youtu.be/R7UVl4vR7k0)
 
 ## Note
 
